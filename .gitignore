@@ -9,3 +9,4 @@
 /lua/plugins/
 /lua/plugins.lua
 **/*Zone.Identifier
+/lazy-lock.json
